@@ -7,3 +7,4 @@ adding commit 2
 
 # process II
 develop -> release -> master => iteration 1
+bug fix on release
