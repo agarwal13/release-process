@@ -14,4 +14,4 @@ bug fix on release iteration 2
 develop -> release -> master => iteration 1
 bug fix on release
 
-Changes in release
+Changes in release; commit 2
