@@ -15,3 +15,4 @@ develop -> release -> master => iteration 1
 bug fix on release
 
 Commit 1 on develop branch
+Commit 2 on develop branch
