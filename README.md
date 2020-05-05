@@ -16,6 +16,9 @@ feature in between, with bug fixes
 develop -> release -> master => iteration 1
 bug fix on release
 
+# feature 2
+some other feature added
+
 Changes in release; commit 2
 Commit 1 on develop branch
 Commit 2 on develop branch
