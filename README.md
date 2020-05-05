@@ -9,6 +9,8 @@ adding commit 2
 develop -> release -> master => iteration 2
 bug fix on release iteration 2
 
+# feature
+feature in between
 
 # process III
 develop -> release -> master => iteration 1
