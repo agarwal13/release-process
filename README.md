@@ -13,3 +13,5 @@ bug fix on release iteration 2
 # process III
 develop -> release -> master => iteration 1
 bug fix on release
+
+Changes in release
