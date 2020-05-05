@@ -10,7 +10,7 @@ develop -> release -> master => iteration 2
 bug fix on release iteration 2
 
 # feature
-feature in between
+feature in between, with bug fixes
 
 # process III
 develop -> release -> master => iteration 1
