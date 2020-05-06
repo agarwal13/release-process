@@ -24,5 +24,5 @@ Commit 1 on develop branch
 Commit 2 on develop branch
 
 # New PoC
-Adding in the intial feature 
+Adding in the intial feature => bug fix 1
 feture1 added
