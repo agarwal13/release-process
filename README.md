@@ -27,3 +27,4 @@ Commit 2 on develop branch
 Adding in the intial feature => bug fix 1
 feture1 added
 feature2 added
+feature3 added
