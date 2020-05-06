@@ -25,7 +25,7 @@ Commit 2 on develop branch
 
 # New PoC
 Adding in the intial feature => bug fix 1
-bug fix 2 done
+bug fix 2 done => bug fix 3
 feture1 added
 feature2 added
 feature3 added
